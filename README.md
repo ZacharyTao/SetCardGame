@@ -10,8 +10,10 @@ This project is a Swift implementation of the classic Set card game, designed fo
 
 ## Gameplay screenshot
 <img width="316" alt="Screenshot 2024-02-19 at 9 33 29 PM" src="https://github.com/ZacharyTao/SetCardGame/assets/111452513/78816f22-6e32-45f0-8d14-9bb68841bec2">
-<img width="316" alt="Screenshot 2024-02-19 at 9 33 42 PM" src="https://github.com/ZacharyTao/SetCardGame/assets/111452513/4bbdf53b-62b4-4188-a7f3-488161803981">
+
 <img width="316" alt="Screenshot 2024-02-19 at 9 35 27 PM" src="https://github.com/ZacharyTao/SetCardGame/assets/111452513/b3266e22-bfa2-4df9-9b11-2d83ac7a4494">
+
+<img width="316" alt="Screenshot 2024-02-19 at 9 36 11 PM" src="https://github.com/ZacharyTao/SetCardGame/assets/111452513/065717d2-c6d4-42d5-a79a-927454990dff">
 
 
 
