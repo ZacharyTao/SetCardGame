@@ -9,6 +9,11 @@ This project is a Swift implementation of the classic Set card game, designed fo
 - **Single Player Mode**: Challenge yourself against the clock to see how quickly you can clear the board.
 
 ## Gameplay screenshot
+<img width="316" alt="Screenshot 2024-02-19 at 9 33 29 PM" src="https://github.com/ZacharyTao/SetCardGame/assets/111452513/78816f22-6e32-45f0-8d14-9bb68841bec2">
+<img width="316" alt="Screenshot 2024-02-19 at 9 33 42 PM" src="https://github.com/ZacharyTao/SetCardGame/assets/111452513/4bbdf53b-62b4-4188-a7f3-488161803981">
+<img width="316" alt="Screenshot 2024-02-19 at 9 35 27 PM" src="https://github.com/ZacharyTao/SetCardGame/assets/111452513/b3266e22-bfa2-4df9-9b11-2d83ac7a4494">
+
+
 
 
 ## Installation
