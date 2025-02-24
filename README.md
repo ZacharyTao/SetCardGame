@@ -17,22 +17,6 @@ This project is a Swift implementation of the classic Set card game, designed fo
 
 <img width="200" alt="Screenshot 2024-02-19 at 9 36 11 PM" src="https://github.com/ZacharyTao/SetCardGame/assets/111452513/065717d2-c6d4-42d5-a79a-927454990dff">
 
-
-
-
-
-## Installation
-
-To run this project, you'll need to have Xcode installed on your macOS system. Follow these steps to get started:
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/set-game-swift.git
-   ```
-2. Open the `.xcodeproj` file in Xcode.
-3. Select your target device or simulator.
-4. Press `Cmd + R` to build and run the project.
-
 ## How to Play
 
 The objective of Set is to identify a "set" of three cards from 12 cards laid out on the table. Each card has four features, which can vary as follows:
